@@ -1,0 +1,16 @@
+{
+      "name": "fp-backend-yourname",
+        "version": "1.0.0",
+          "description": "Simple Express app for FP submission",
+            "main": "index.js",
+              "scripts": {
+                  "start": "node index.js",
+                      "dev": "node ind}ex.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
