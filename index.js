@@ -26,7 +26,6 @@ app.get('/', (req, res) => {
           <p><strong>Class section:</strong> BSIT BA 4102</p>
           <p class="quote">“Friendship is certainly the finest balm for the pangs of disappointed love.” — Northanger Abbey</p>
           <hr/>
-          <p>Deployed on Render: <em>replace-with-your-render-url-after-deploy</em></p>
         </div>
       </body>
     </html>
